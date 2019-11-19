@@ -1,0 +1,44 @@
+.search-center{
+	position: relative;
+	left:550px;
+}
+.foot{
+	text-align: center;
+}
+#err_msg{
+	color: red;
+}
+#e_msg{
+	color: red;
+}
+.size-product{
+	width: 100%;
+	height: 100%;
+}
+.height{
+	height: 220px;
+}
+.profile{
+	display: flex;
+}
+.content{
+	padding: 15px;
+}
+.bold{
+	font-weight: bold;
+}
+.black{
+	color: black;
+}
+.user-info{
+	display: inline;
+	position: relative;
+	top: 15px;
+}
+.user-info a{
+	color: #777;
+	padding-right: 15px;
+}
+h1{
+	text-align: center;
+}

@@ -1,0 +1,1 @@
+﻿chạy file ở thư mục view/assets/databasedb_onlineshopping.sql
